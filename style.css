@@ -1,0 +1,9 @@
+:root {
+  --sv-green: #64a70b;
+  --sv-muted: #f6faf5;
+  --sv-text: #333;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
